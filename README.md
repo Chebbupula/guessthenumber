@@ -34,8 +34,8 @@ Navigate to the correct drive (if on Windows and the project is on a different d
    "E:"
    Enter the main project folder (e.g., python pr):
    "cd python pr"
-   Navigate into the next project subfolder (e.g., casino), if necessary:
-   "cd casino"
+   Navigate into the next project subfolder (e.g., guessthenumber), if necessary:
+   "cd guessthenomber"
    Finally, run the project file using the following command:
-   "python casino.py"
+   "python game.py"
    ```
